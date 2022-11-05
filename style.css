@@ -35,5 +35,6 @@ span{
 .bottom-cloud{
     position: absolute;
     bottom: 300px;
+    overflow: hidden;
     left: 300px;
 }
